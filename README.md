@@ -13,3 +13,5 @@ There were 2866 females and 2134 males in the sample. Males had a slightly highe
 My logistic prediction model tested the association between having a cardiac event and multiple demographic variables. My primary exposure of interest was smoking, and I controlled for age and sex. Not surprisingly, smoking status was very strongly associated with having a cardiac event (p < .001).
 
 For my figure, I plotted `cost` between males and females. The distribution of cost was shifted slightly to the right compared to females.
+
+I did not use generative AI (e.g. ChatGPT, Gemini, etc.) for this assignment.
